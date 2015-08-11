@@ -48,6 +48,9 @@ Sorry, I get a lot of questions. But visit the homepage for this plugin and leav
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixing broken Javascript
+
 = 1.0.0 =
 * First forked version, takes original plugin at v1.13 and removes the advertising messaging.
 * WordPress Coding Standards.

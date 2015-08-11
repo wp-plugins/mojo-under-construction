@@ -22,7 +22,7 @@ if ( ! class_exists( 'mojoContruction' ) ) :
 		}
 
 		public function adminInit() {
-			wp_register_script( 'underConstructionJS', MOJO_UC_BASE_PATH . '/underconstruction.min.js' );
+			wp_register_script( 'underConstructionJS', MOJO_UC_BASE_URL . '/underconstruction.min.js' );
 		}
 
 		/*

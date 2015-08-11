@@ -3,7 +3,7 @@
 Plugin Name: Mojo Under Construction
 Plugin URI: http://www.mojowill.com/developer/the-mojo-admin-toolbox/
 Description: Easily create a "Coming Soon" page for your WordPress site.
-Version: 1.0.0
+Version: 1.0.1
 Author: mojowill
 Author URI: http://www.mojowill.com
 License: GPLv2 or later
